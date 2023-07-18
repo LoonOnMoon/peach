@@ -41,7 +41,18 @@ export default defineNuxtConfig({
   // @ts-ignore
   i18n: {
     vueI18n: './i18n.config.ts',
-    locales: ['en', 'sr'],  // used in URL path prefix
+    locales: [
+      'en', 
+      'sr',
+      'mk',
+      'hr',
+      'sl',
+      'he',
+      'bg',
+      'sq',
+      'ro',
+      'hu',
+    ],  // used in URL path prefix
     defaultLocale: 'en', 
   }
 })

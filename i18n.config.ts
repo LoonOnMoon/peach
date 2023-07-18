@@ -8,6 +8,9 @@ export default defineI18nConfig(() => ({
       },
       sr: {
         welcome: 'Dobro dosli'
+      },
+      mk: {
+        welcome: 'Добредојдовте'
       }
     }
   }))
