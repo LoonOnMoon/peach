@@ -3,5 +3,5 @@
 </template>
 
 <style lang="scss">
-@use './settings';
+@use 'assets/styles/main';
 </style>
